@@ -1,7 +1,10 @@
 {
-  "name": "sc-excel-export",
-  "version": "0.0.10",
+  "name": "sc-identific-code",
+  "version": "1.0.0",
+  "description": "sc-identific-code识别码",
   "main": "./plugin/index.js",
+  "author": "erikison",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
