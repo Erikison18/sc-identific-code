@@ -8,13 +8,7 @@
     "lint": "vue-cli-service lint --fixed"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "exceljs": "^4.2.0",
-    "file-saver": "^2.0.2",
-    "moment": "^2.29.1",
-    "table2excel.js": "^0.6.7",
-    "vue": "^2.6.11",
-    "xlsx-style": "^0.8.13"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
